@@ -11,6 +11,7 @@ public class Chrome implements DriverStrategy {
         ChromeOptions options = new ChromeOptions();
         options.setExperimentalOption("useAutomationExtension", false);
         options.addArguments("--no-sandbox");
+        options.addArguments("--window-size=1366x768"); // untuk menangani scroll berbeda
 
         return new ChromeDriver(options);
     }

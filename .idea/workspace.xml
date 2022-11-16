@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0da2a24d-5aa4-42f8-9ec8-2b22a1386b7a" name="Changes" comment="frist commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/pages/LoginSiloam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/pages/MenuNew.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/utils/TestScenarios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/juaracoding/Hooks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/pages/Dashboard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/pages/Return.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/features/Return.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/Return.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/juaracoding/TestDashboard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/juaracoding/TestReturn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/juaracoding/TestReturn.java" afterDir="false" />
-    </list>
+    <list default="true" id="0da2a24d-5aa4-42f8-9ec8-2b22a1386b7a" name="Changes" comment="test return page" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,6 +64,30 @@
       <recent name="com.juaracoding.cucumber.pages" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="RunnerTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="cucumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.juaracoding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.juaracoding" />
+      <option name="MAIN_CLASS_NAME" value="com.juaracoding.RunnerTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.RunnerTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -133,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668181399159</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="test return page">
+      <created>1668333372303</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668333372303</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -164,6 +184,7 @@
     <MESSAGE value="branch" />
     <MESSAGE value="test" />
     <MESSAGE value="frist commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="frist commit" />
+    <MESSAGE value="test return page" />
+    <option name="LAST_COMMIT_MESSAGE" value="test return page" />
   </component>
 </project>
