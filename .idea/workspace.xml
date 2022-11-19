@@ -5,22 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0da2a24d-5aa4-42f8-9ec8-2b22a1386b7a" name="Changes" comment="Template">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/drivers/DriverSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/drivers/strategies/Chrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/drivers/strategies/DriverStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/drivers/strategies/DriverStrategyImplementer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/drivers/strategies/Firefox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/pages/Dashboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/utils/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/utils/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/juaracoding/TestDashboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/pages/InputDataPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/pages/LoginSiloam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/features/01.Login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/features/02.Dashboard.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/features/025.Klik_navigation_menu_input.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/features/026.Mengisi_inputDataValid.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/juaracoding/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/juaracoding/InputData_Siloam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/juaracoding/Login_WEB_Siloam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/juaracoding/RunnerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/juaracoding/TestDashboard.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,14 +46,19 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/juaracoding/java/Kelompok4_SQA/src/main/java/com/juaracoding/cucumber"
+    "last_opened_file_path": "D:/projectsqaelva/ProjectKelompok4/src/main"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\projectsqaelva\ProjectKelompok4\src\main" />
+      <recent name="D:\projectsqaelva\ProjectKelompok4\src\test\java\com\juaracoding" />
+      <recent name="D:\projectsqaelva\ProjectKelompok4\src\main\java" />
+      <recent name="D:\projectsqaelva\ProjectKelompok4\src\main\java\com\juaracoding\cucumber\pages" />
       <recent name="C:\juaracoding\java\Kelompok4_SQA\src\main\java\com\juaracoding\cucumber" />
-      <recent name="C:\juaracoding\java\Kelompok4_SQA\src\main\java\com\juaracoding\cucumber\drivers" />
-      <recent name="C:\juaracoding\java\Kelompok4_SQA\src\main\java\com\juaracoding" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\projectsqaelva\ProjectKelompok4\src\main\java\com\juaracoding\cucumber\utils" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
