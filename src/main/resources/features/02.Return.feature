@@ -64,8 +64,8 @@ Feature: Return
     When TCC.SILOAM.107 klik button search
     Then TCC.SILOAM.107 menampikan data sesuai dengan inputan
 
-  Scenario: TCC.SILOAM.105 Klik button search
-    When TCC.SILOAM.105 klik button reset
+  Scenario: TCC.SILOAM.105 Klik button reset textbox serach
+    When TCC.SILOAM.105 klik button reset textbox search
     Then TCC.SILOAM.105 berhasil menghapus inputan
 
 
@@ -84,6 +84,10 @@ Feature: Return
   Scenario: TCC.SILOAM.112 show entries 100
     When TCC.SILOAM.112 klik select pages
     Then TCC.SILOAM.112 select 100
+
+  Scenario: TCC.SILOAM show entries 10
+    When TCC.SILOAM klik select pages
+    Then TCC.SILOAM select 10
 
 
   Scenario: TCC.SILOAM.114 Menampilkan auto number sesuai dengan data  yang di upload
@@ -109,6 +113,20 @@ Feature: Return
   Scenario: TCC.SILOAM.119 Menampilkan faskes tujuan
     When TCC.SILOAM.119 Menampilkan faskes tujuan di Data Tabel
     Then TCC.SILOAM.119 Validasi faskes tujuan
+
+  Scenario: TCC.SILOAM.120 Menampilkan button aksi view data
+    When TCC.SILOAM.120 menampilkan button aksi view data
+    Then TCC.SILOAM.120 validasi button aksi view data
+
+  Scenario: TCC.SILOAM.121 Menampilkan halaman selanjutnya
+    When TCC.SILOAM.121 scroll down page
+    And TCC.SILOAM.121 klik button nex
+    Then TCC.SILOAM.121 menampilkan halaman selanjutnya
+
+
+  Scenario: TCC.SILOAM.122 Menampilkan halaman sebelumnya
+    When TCC.SILOAM.122 scroll down page
+    Then TCC.SILOAM.122 klik button previous
 
 
 

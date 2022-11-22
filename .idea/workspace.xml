@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0da2a24d-5aa4-42f8-9ec8-2b22a1386b7a" name="Changes" comment="test return page" />
+    <list default="true" id="0da2a24d-5aa4-42f8-9ec8-2b22a1386b7a" name="Changes" comment="update return test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,20 +42,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/juaracoding/java/Siloam&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/juaracoding/cucumber/src/main/resources/features",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\juaracoding\cucumber\src\main\resources\features" />
       <recent name="C:\juaracoding\java\Kelompok4_SQA\src\main\java\com\juaracoding\cucumber" />
       <recent name="C:\juaracoding\java\Kelompok4_SQA\src\main\java\com\juaracoding\cucumber\drivers" />
       <recent name="C:\juaracoding\java\Kelompok4_SQA\src\main\java\com\juaracoding" />
@@ -153,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668333372303</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="update return test">
+      <created>1668593741270</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1668593741270</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,6 +195,7 @@
     <MESSAGE value="test" />
     <MESSAGE value="frist commit" />
     <MESSAGE value="test return page" />
-    <option name="LAST_COMMIT_MESSAGE" value="test return page" />
+    <MESSAGE value="update return test" />
+    <option name="LAST_COMMIT_MESSAGE" value="update return test" />
   </component>
 </project>
